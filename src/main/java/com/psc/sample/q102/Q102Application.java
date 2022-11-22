@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Q102Application {
 
     public static void main(String[] args) {
-        //aa
+        //aa ㅓㅏㅓㅏㅓㅏ
         SpringApplication.run(Q102Application.class, args);
         //ㅁㅁㅀㅀ
     }

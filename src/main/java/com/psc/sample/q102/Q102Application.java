@@ -9,7 +9,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Q102Application {
 
     public static void main(String[] args) {
-        System.out.println("1212");
         SpringApplication.run(Q102Application.class, args);
     }
 

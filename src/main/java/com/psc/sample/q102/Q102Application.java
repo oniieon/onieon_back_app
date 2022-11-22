@@ -11,6 +11,7 @@ public class Q102Application {
     public static void main(String[] args) {
         System.out.println("메인!!");
         SpringApplication.run(Q102Application.class, args);
+        System.out.println("메인 내 브랜치!!");
     }
 
 }
